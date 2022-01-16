@@ -1,3 +1,13 @@
+#
+# Author: Team Mojo
+# Course: DWL03-Dat Lakes and Data Warehouses
+# Data: Autumn 2021
+#
+# Description: An Airflow DAG to GET and POST data from weather station
+#              to Axpo's Azure Data Lake
+
+
+
 import boto3
 import json
 import datetime
