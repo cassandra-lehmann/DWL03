@@ -3,9 +3,7 @@
 # Course: DWL03-Dat Lakes and Data Warehouses
 # Data: Autumn 2021
 #
-# Description: An Airflow DAG to GET and POST data from weather station
-#              to Axpo's Azure Data Lake
-
+# Description: AWS lambda function to flatten raw Open Wather Map API data
 
 
 import boto3
